@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **web dev and open source projects.**
 
-- 👨‍💻 All of my projects are available at [https://khushi-kumari22.github.io/My_portfolio_Website_/](https://khushi-kumari22.github.io/My_portfolio_Website_/)
+- 👨‍💻 All of my projects are available at [https://khushi-kumari22.github.io/My_portfolio_Website_/](https://khushi-kumari22.github.io/My_portfolio_Website/)
 
 - 📫 How to reach me **Khushi0884@gmail.com**
 
