@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Khushi0884@gmail.com**
 
-- ⚡ Fun fact **🏅Rank 240 on GFG Practice**
+- ⚡ Fun fact **🏅Rank 200 on GFG Practice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
