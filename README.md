@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi-kumari22&label=Profile%20views&color=0e75b6&style=flat" alt="khushi-kumari22" /> </p>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently working in **Birlasoft**
 
 - 👯 I’m looking to collaborate on **web dev and open source projects.**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Khushi0884@gmail.com**
 
-- ⚡ Fun fact **🏅Rank 150 on GFG Practice**
+- ⚡ Fun fact **🏅Consistent learner aiming to grow one commit at a time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
